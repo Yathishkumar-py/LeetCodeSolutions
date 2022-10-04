@@ -32,6 +32,7 @@ class Solution:
                 return [result_dict[target-val], idx]
             result_dict[val] = idx
 
+
 in_obj = Solution()
 result = in_obj.two_sum([3, 2, 4], 6)
 print(result)
