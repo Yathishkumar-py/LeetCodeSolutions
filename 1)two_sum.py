@@ -36,3 +36,4 @@ class Solution:
 in_obj = Solution()
 result = in_obj.two_sum([3, 2, 4], 6)
 print(result)
+print(in_obj)
